@@ -1,0 +1,101 @@
+id,message,category
+1,My transfer was successful but the recipient has not received the money.,Payment/Transaction
+2,I was charged twice for the same transaction.,Payment/Transaction
+3,My card payment was declined even though I have enough money.,Payment/Transaction
+4,The money I transferred has been deducted but the transaction is still pending.,Payment/Transaction
+5,I made a payment yesterday and it has not been confirmed.,Payment/Transaction
+6,Why was I charged a fee for my transfer?,Payment/Transaction
+7,I requested a refund but the money has not returned to my account.,Payment/Transaction
+8,My bank transfer failed but the money was deducted.,Payment/Transaction
+9,The ATM gave me less cash than the amount I requested.,Payment/Transaction
+10,I do not recognize this transaction on my account.,Payment/Transaction
+11,My card was charged for a transaction that failed.,Payment/Transaction
+12,I cannot complete my payment because it keeps failing.,Payment/Transaction
+13,The recipient says they have not received my transfer.,Payment/Transaction
+14,I was debited for a payment I did not make.,Payment/Transaction
+15,My transfer has been pending for several hours.,Payment/Transaction
+16,Why did my payment get reversed?,Payment/Transaction
+17,I sent money to the wrong account. Can I reverse the transfer?,Payment/Transaction
+18,My cash withdrawal is showing as completed but I did not receive the money.,Payment/Transaction
+19,The amount deducted from my account is different from the payment amount.,Payment/Transaction
+20,Can I get a refund for a transaction I made?,Payment/Transaction
+21,I cannot log into my account.,Account Access
+22,I forgot my password and cannot access my account.,Account Access
+23,My account is locked after several login attempts.,Account Access
+24,I am not receiving the code to log into my account.,Account Access
+25,How can I reset my password?,Account Access
+26,I changed my phone and cannot access my account.,Account Access
+27,My login details are not working.,Account Access
+28,I cannot access my account because I forgot my PIN.,Account Access
+29,The verification code is not arriving on my phone.,Account Access
+30,I am unable to sign in from my new device.,Account Access
+31,My account has been temporarily locked.,Account Access
+32,How do I recover access to my account?,Account Access
+33,I entered the wrong password too many times.,Account Access
+34,I cannot log in after changing my password.,Account Access
+35,The app keeps rejecting my login information.,Account Access
+36,I no longer have access to the phone number linked to my account.,Account Access
+37,My account login is not working.,Account Access
+38,How can I unlock my account?,Account Access
+39,I am having trouble verifying my identity to access my account.,Account Access
+40,I forgot my login PIN and need to reset it.,Account Access
+41,The mobile app keeps crashing when I open it.,Technical Issue
+42,The website is not loading for me.,Technical Issue
+43,The application freezes whenever I try to make a payment.,Technical Issue
+44,I keep getting an error message on the app.,Technical Issue
+45,The app is very slow today.,Technical Issue
+46,I cannot open the transaction history page.,Technical Issue
+47,The website stopped working while I was using it.,Technical Issue
+48,The app closes by itself whenever I try to log in.,Technical Issue
+49,I am unable to update the application.,Technical Issue
+50,The page keeps showing a technical error.,Technical Issue
+51,The app is not responding when I click the submit button.,Technical Issue
+52,I cannot load my account balance.,Technical Issue
+53,The website keeps timing out.,Technical Issue
+54,The application is displaying a blank screen.,Technical Issue
+55,I am experiencing an error whenever I upload a document.,Technical Issue
+56,The app stopped working after the latest update.,Technical Issue
+57,The website is extremely slow and difficult to use.,Technical Issue
+58,I cannot open the notifications section.,Technical Issue
+59,The system keeps disconnecting while I use the app.,Technical Issue
+60,I received an unexpected error while using the service.,Technical Issue
+61,I contacted support but nobody has responded.,Customer Service
+62,I have been waiting for customer support to reply.,Customer Service
+63,How can I speak with a customer service representative?,Customer Service
+64,The support team has not resolved my complaint.,Customer Service
+65,I submitted a complaint several days ago and have received no response.,Customer Service
+66,I am unhappy with the way my complaint was handled.,Customer Service
+67,Please connect me with a support agent.,Customer Service
+68,Customer support closed my case without resolving the issue.,Customer Service
+69,I need help from a customer service representative.,Customer Service
+70,Why has nobody from support contacted me?,Customer Service
+71,I have followed up several times but support has not replied.,Customer Service
+72,My complaint is still waiting for a response from the support team.,Customer Service
+73,I want to escalate my complaint to a support manager.,Customer Service
+74,The customer service response did not solve my problem.,Customer Service
+75,I am still waiting for an update from customer support.,Customer Service
+76,How do I contact the support team about an unresolved issue?,Customer Service
+77,I received poor service from the customer support team.,Customer Service
+78,Can someone from customer service review my complaint?,Customer Service
+79,Support promised to get back to me but I have heard nothing.,Customer Service
+80,I need assistance with an issue that support has not resolved.,Customer Service
+81,How can I change my registered email address?,General Enquiry
+82,What documents do I need to open an account?,General Enquiry
+83,How can I update my personal information?,General Enquiry
+84,What are the requirements for creating an account?,General Enquiry
+85,How do I change my phone number?,General Enquiry
+86,What are the available account features?,General Enquiry
+87,Can I use the service from another country?,General Enquiry
+88,How can I close my account?,General Enquiry
+89,Where can I find information about your services?,General Enquiry
+90,What is the process for updating my account details?,General Enquiry
+91,How do I change my registered phone number?,General Enquiry
+92,What information do I need to provide to verify my account?,General Enquiry
+93,Can I update my email address on my account?,General Enquiry
+94,What services are available to customers?,General Enquiry
+95,How can I view the terms and conditions?,General Enquiry
+96,Where can I find your customer service contact information?,General Enquiry
+97,What are the requirements for using this service?,General Enquiry
+98,How do I update my profile information?,General Enquiry
+99,Can I change the details on my account?,General Enquiry
+100,Where can I learn more about how the service works?,General Enquiry
