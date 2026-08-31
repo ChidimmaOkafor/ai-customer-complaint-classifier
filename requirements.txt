@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+SQLAlchemy
+pandas
+scikit-learn
+joblib
+pytest
+httpx
